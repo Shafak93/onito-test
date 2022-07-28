@@ -6,7 +6,7 @@ import ReceiptForm from './Components/Receipt/ReceiptForm';
 function App() {
   return (
     <div className="App">
-    <ReceiptForm></ReceiptForm>
+    <ReceiptForm/>
     </div>
   );
 }
